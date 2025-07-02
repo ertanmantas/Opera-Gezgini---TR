@@ -1,2 +1,3 @@
 # Opera-Gezgini---TR
-Opera gezginini Türkçe kullanmak için özet bilgiler
+Opera gezginini Pardus'ta Türkçe kullanmak için özet bilgiler
+How to set language to Turkish on Opera Browser in Pardus Linux
