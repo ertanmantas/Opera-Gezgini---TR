@@ -1,3 +1,4 @@
+# Bu dosyayı bilgisayarınıza indirdikten sonra "Program Olarak Çalıştır" seçeneğini etkin hale getirmelisiniz.
 # "libffmpeg.so" dosyası youtube gibi bazı sitelerdeki videoların sorunsuz açılması için gereklidir.
 # Kaynak: https://github.com/nwjs-ffmpeg-prebuilt/nwjs-ffmpeg-prebuilt/releases/ sitesinden güncel sürümünü indirebilirsiniz.
 # Aşağıdaki kodda "kullanıcıadınız" kısmına kendi kullanıcı adınızı, "İndirilenler" kısmına ise kendi İndirilenler ya da Downloads dizininizin ismini yazınız.
