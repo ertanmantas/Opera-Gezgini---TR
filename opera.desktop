@@ -1,0 +1,23 @@
+[Desktop Entry]
+Version=1.0
+Name=Opera
+GenericName=İnternet Gezgini
+Comment=Hızlı ve güvenli internet gezgini
+TryExec=opera
+Exec=opera %U --lang=tr
+Terminal=false
+Icon=opera
+Type=Application
+Categories=Network;WebBrowser;
+MimeType=text/html;text/xml;application/xhtml_xml;x-scheme-handler/http;x-scheme-handler/https;x-scheme-handler/ftp;application/x-opera-download;
+Actions=new-window;new-private-window;
+
+[Desktop Action new-window]
+Name=Yeni Pencere
+Exec=opera --new-window --lang=tr
+TargetEnvironment=Unity
+
+[Desktop Action new-private-window]
+Name=Yeni Özel Pencere
+Exec=opera --incognito --lang=tr
+TargetEnvironment=Unity
